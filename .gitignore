@@ -11,3 +11,5 @@ Final Project/Historical_TOS_Corpus_2010_2018.csv
 __pycache__/
 .venv/
 *.pyc
+Final Project/ACSDP5Y2014.DP03-Data.csv
+Final Project/consumer_complaints.csv
