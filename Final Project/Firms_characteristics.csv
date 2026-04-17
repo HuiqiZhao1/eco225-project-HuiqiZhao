@@ -1,0 +1,60 @@
+Company,Firm_Type
+Wells Fargo & Company,1_Bank
+JPMorgan Chase & Co.,1_Bank
+Citibank,1_Bank
+Bank of America,1_Bank
+U.S. Bancorp,1_Bank
+PNC Bank N.A.,1_Bank
+KeyBank NA,1_Bank
+"Citizens Financial Group, Inc.",1_Bank
+"SunTrust Banks, Inc.",1_Bank
+Discover,1_Bank
+HSBC North America Holdings Inc.,1_Bank
+Sallie Mae,2_NonBank
+"Navient Solutions, Inc.",2_NonBank
+Nelnet,2_NonBank
+Great Lakes,2_NonBank
+Genesis Lending,2_NonBank
+Loan To Learn,2_NonBank
+First Marblehead Education Resources,2_NonBank
+Brazos Higher Education Servicing,2_NonBank
+ReliaMax Holding Company,2_NonBank
+ACS Education Services,2_NonBank
+First Associates Loan Servicing LLC,2_NonBank
+Access Group,2_NonBank
+Heartland Payment Systems,2_NonBank
+"Social Finance, Inc.",2_NonBank
+Granite State Management & Resources,2_NonBank
+"Campus Student Funding, LLC",2_NonBank
+Tuition Options LLC,2_NonBank
+Edfinancial Services,2_NonBank
+"LendKey Technologies, Inc.",2_NonBank
+College Loan Corporation,2_NonBank
+"National Education Servicing, LLC",2_NonBank
+"Loan Science, LLC",2_NonBank
+Climb Credit Inc.,2_NonBank
+"CommonBond, Inc.",2_NonBank
+"Educational Loan Servicing, LLC",2_NonBank
+"Bayview Loan Servicing, LLC",2_NonBank
+Springstone Financial LLC,2_NonBank
+AES/PHEAA,3_State_NonProfit
+MOHELA,3_State_NonProfit
+Higher Education Student Assistance Authority (HESAA),3_State_NonProfit
+"ECMC Group, Inc.",3_State_NonProfit
+Iowa Student Loan,3_State_NonProfit
+Student Loan Finance Corporation,3_State_NonProfit
+MEFA,3_State_NonProfit
+Rhode Island Student Loan Authority,3_State_NonProfit
+Texas Higher Education Coordinating Board,3_State_NonProfit
+South Carolina Student Loan,3_State_NonProfit
+United Student Aid (USA) Funds,3_State_NonProfit
+Alaska Commission on Post Secondary Education,3_State_NonProfit
+American Student Assistance,3_State_NonProfit
+Student Assistance Foundation,3_State_NonProfit
+Kentucky Higher Education Assistance Authority,3_State_NonProfit
+Finance Authority of Maine,3_State_NonProfit
+Georgia Student Finance Authority,3_State_NonProfit
+Utah System of Higher Education,3_State_NonProfit
+Texas Guaranteed,3_State_NonProfit
+Minnesota Office of Higher Education,3_State_NonProfit
+Vermont Student Assistance Corporation,3_State_NonProfit

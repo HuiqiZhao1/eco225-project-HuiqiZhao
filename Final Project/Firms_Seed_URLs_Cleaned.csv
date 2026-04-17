@@ -1,0 +1,60 @@
+Company,Firm_Type,Seed_URL
+Wells Fargo & Company,1_Bank,wellsfargo.com/legal
+JPMorgan Chase & Co.,1_Bank,chase.com
+Citibank,1_Bank,citi.com
+Bank of America,1_Bank,bankofamerica.com
+U.S. Bancorp,1_Bank,usbank.com
+PNC Bank N.A.,1_Bank,pnc.com
+KeyBank NA,1_Bank,key.com
+"Citizens Financial Group, Inc.",1_Bank,citizensbank.com
+"SunTrust Banks, Inc.",1_Bank,suntrust.com
+Discover,1_Bank,discover.com
+HSBC North America Holdings Inc.,1_Bank,us.hsbc.com
+Sallie Mae,2_NonBank,salliemae.com/legal
+"Navient Solutions, Inc.",2_NonBank,navient.com
+Nelnet,2_NonBank,nelnet.com
+Great Lakes,2_NonBank,mygreatlakes.org
+Genesis Lending,2_NonBank,genesis-fs.com
+Loan To Learn,2_NonBank,loantolearn.com
+First Marblehead Education Resources,2_NonBank,firstmarblehead.com
+Brazos Higher Education Servicing,2_NonBank,studentloans.com
+ReliaMax Holding Company,2_NonBank,reliamax.com
+ACS Education Services,2_NonBank,acs-inc.com
+First Associates Loan Servicing LLC,2_NonBank,1stassociates.com
+Access Group,2_NonBank,accesslex.org
+Heartland Payment Systems,2_NonBank,heartland.us
+"Social Finance, Inc.",2_NonBank,sofi.com/legal
+Granite State Management & Resources,2_NonBank,gsmr.org
+"Campus Student Funding, LLC",2_NonBank,campusstudentfunding.com
+Tuition Options LLC,2_NonBank,tuitionoptions.com
+Edfinancial Services,2_NonBank,edfinancial.com
+"LendKey Technologies, Inc.",2_NonBank,lendkey.com
+College Loan Corporation,2_NonBank,collegeloan.com
+"National Education Servicing, LLC",2_NonBank,nationaled.net
+"Loan Science, LLC",2_NonBank,loanscience.com
+Climb Credit Inc.,2_NonBank,climbcredit.com
+"CommonBond, Inc.",2_NonBank,commonbond.co
+"Educational Loan Servicing, LLC",2_NonBank,elsed.com
+"Bayview Loan Servicing, LLC",2_NonBank,bayviewloanservicing.com
+Springstone Financial LLC,2_NonBank,springstonefinancial.com
+AES/PHEAA,3_State_NonProfit,aessuccess.org
+MOHELA,3_State_NonProfit,mohela.com
+Higher Education Student Assistance Authority (HESAA),3_State_NonProfit,hesaa.org
+"ECMC Group, Inc.",3_State_NonProfit,ecmc.org
+Iowa Student Loan,3_State_NonProfit,iowastudentloan.org
+Student Loan Finance Corporation,3_State_NonProfit,slfc.com
+MEFA,3_State_NonProfit,mefa.org
+Rhode Island Student Loan Authority,3_State_NonProfit,risla.com
+Texas Higher Education Coordinating Board,3_State_NonProfit,thecb.state.tx.us
+South Carolina Student Loan,3_State_NonProfit,scstudentloan.org
+United Student Aid (USA) Funds,3_State_NonProfit,usafunds.org
+Alaska Commission on Post Secondary Education,3_State_NonProfit,acpe.alaska.gov
+American Student Assistance,3_State_NonProfit,asa.org
+Student Assistance Foundation,3_State_NonProfit,safmt.org
+Kentucky Higher Education Assistance Authority,3_State_NonProfit,kheaa.com
+Finance Authority of Maine,3_State_NonProfit,famemaine.com
+Georgia Student Finance Authority,3_State_NonProfit,gsfc.georgia.gov
+Utah System of Higher Education,3_State_NonProfit,ushe.edu
+Texas Guaranteed,3_State_NonProfit,tgslc.org
+Minnesota Office of Higher Education,3_State_NonProfit,ohe.state.mn.us
+Vermont Student Assistance Corporation,3_State_NonProfit,vsac.org

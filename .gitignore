@@ -1,3 +1,13 @@
-# 忽略数据文件
-*.csv
-data/*.csv
+.DS_Store
+Project 1/
+Project 2/
+*.png
+*.html
+*.numbers
+Final Project/table1_summary_statistics.csv
+Final Project/table2_relief_by_income_quartile.csv
+Final Project/TOS_NLP_Scores_2010_2018.csv
+Final Project/Historical_TOS_Corpus_2010_2018.csv
+__pycache__/
+.venv/
+*.pyc
